@@ -1,11 +1,7 @@
----
-layout: default
-title: Ken Wesley
----
 
 # Ken Wesley
 
-A structured archive of ideas.
+This repository contains the ongoing intellectual work by Ken Wesley.
 
 ---
 
