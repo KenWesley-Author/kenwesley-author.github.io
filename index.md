@@ -1,7 +1,23 @@
+---
+layout: default
+title: Ken Wesley
+---
+
 # Ken Wesley
 
-This repository contains the ongoing intellectual work by Ken Wesley.
+A structured archive of ideas.
 
-Start → index.md
+---
 
-[Enter](/KenWesley-Author/index.html)
+## Concepts
+
+
+## Themes
+
+---
+
+## Series
+
+
+## Fragments
+
