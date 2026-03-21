@@ -15,7 +15,6 @@ title: Iterative Folly
 
 Concept
 
-Iterative Folly
 Repeated error that only gains legitimacy through eventual success.
 
 
